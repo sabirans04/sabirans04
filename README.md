@@ -35,7 +35,7 @@ Hi there, I'm Sabir Ansari 👋<br>🌟 Passionate About Building Better Digital
 
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?&logo=nginx&logoColor=white)
-![LiteSpeed](https://img.shields.io/badge/LiteSpeed-%230076D6.svg?&logoColor=white)
+![LiteSpeed](https://img.shields.io/badge/LiteSpeed-%230076D6.svg?&logo=slint&logoColor=white)
 
 **Databases**<br/>
 
