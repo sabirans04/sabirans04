@@ -1,7 +1,20 @@
-# 💫 About Me:
-Hi there, I'm Sabir Ansari 👋<br>🌟 Passionate About Building Better Digital Experiences<br>💻 Web Developer | [Hosting Provider](https://github.com/pynoxi)
- | Tech Enthusiast<br>🚀 Dedicated to Creating Scalable and Reliable Web Solutions<br>✨ Always Exploring New Technologies to Drive Innovation
+## 💫 About Me
 
+Hi, I'm Sabir Ansari, Founder & CEO at [PyNoxi Web Solutions](https://pynoxi.com) !<br>
+
+🌟 Passionate About Building Better Digital Experiences<br>
+💻 Web Developer | [Hosting & Cloud Solutions](https://pynoxi.com) | Tech Enthusiast<br>
+🚀 Dedicated to Creating Scalable and Reliable Web Solutions<br>
+✨ Always Exploring New Technologies to Drive Innovation
+
+### 🏢 PyNoxi Web Solutions
+
+Empowering businesses with cutting-edge web solutions:
+- 🌐 Custom Web Development
+- ☁️ Cloud Infrastructure & Hosting
+- 🛡️ Web Security Solutions
+- 🚀 Scalable Applications
+- 💻 Full-Stack Development Services
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabirans04)
@@ -10,7 +23,7 @@ Hi there, I'm Sabir Ansari 👋<br>🌟 Passionate About Building Better Digital
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21008232)
 [![Codepen](https://img.shields.io/badge/Codepen-black.svg?logo=codepen&logoColor=white)](https://codepen.io/sabirans04)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 **Frontend & Backend**<br/>
 
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?&logo=html5&logoColor=white)
@@ -57,17 +70,21 @@ Hi there, I'm Sabir Ansari 👋<br>🌟 Passionate About Building Better Digital
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![Autocad](https://img.shields.io/badge/Autocad-%23FF9A00.svg?&logo=autocad&logoColor=white)
 
+## 📫 Let's Connect
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sabirans04&theme=default&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabirans04&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+- 🌐 Website: [sabirans.com](https://sabirans.com)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/sabirans04)
+- 📧 Email: [info@sabirans.com](mailto:info@sabirans.com)
+- 💻 GitHub: [@sabirans04](https://github.com/sabirans04)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sabirans04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sabirans04)
+<div align="center">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=sabirans04" alt="Visit Count" />
+</div>
+
+<p align="center">
+  <i>Building the future of web technology, one project at a time.</i>
+</p>
 
 
